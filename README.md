@@ -44,25 +44,4 @@ EDA involved exploring the data to answer the key questions, such as:
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
-
 ### Data Analysis
-
-``` SQL
-WITH dv AS (
-		SELECT DISTINCT(order_date) AS days_visited,
-             customer_ID
-		FROM sales
-		ORDER BY 2)
-SELECT customer_id, 
-    COUNT(days_visited) AS num_days_visited
-FROM dv
-GROUP BY 1
-ORDER BY 2 DESC;
-```
-
-### Results
-
-The analysis results are summaried as follows:
-
-
-### Recommendations 
