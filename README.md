@@ -9,10 +9,11 @@
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
+___
 
 ### Project Overview
 
-This Data Analysis project aims to answer a few simple questions about Danny diner's customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
+This Data Analysis project aims to answer a few simple questions about **Danny diner's** customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. He plans on using these insights to help him decide whether he should expand the existing customer loyalty program.
 
 
 ### Data Source
@@ -25,9 +26,14 @@ This Data Analysis project aims to answer a few simple questions about Danny din
 
 
 ### Tools
-- SQL - Data Analysis
-      - [Dowload here](https//microsoft.com)
+SQL - Data Analysis
+[Dowload here](https//microsoft.com)
 
+The following SQL functions were used:
+- Subquery
+- CTE
+- WHERE
+- GROUP BY
 
 ### Exploratory Data Analysis (EDA)
   
@@ -45,3 +51,5 @@ EDA involved exploring the data to answer the key questions, such as:
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
 ### Data Analysis
+
+
