@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- [Tools](#tools)
+- [Tools and Skills](#tools-and-skills)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
 - [Data Analysis](#data-analysis)
 - [Results](#results)
@@ -25,7 +25,7 @@ This Data Analysis project aims to answer a few simple questions about **Danny d
 - Members Table: Captures the **join_date** when a **customer_id** joined the beta version of the Danny’s Diner loyalty program.
 
 
-### Tools
+### Tools and Skills
 SQL - Data Analysis
 [Dowload here](https//microsoft.com)
 
